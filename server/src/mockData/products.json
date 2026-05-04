@@ -1,0 +1,85 @@
+[
+  {
+    "_id": "607f1f77bcf86cd799439001",
+    "title": "Elegant Red Banarasi Silk Saree",
+    "category": "Saree",
+    "sizes": ["Free Size"],
+    "occasionTags": ["Wedding", "Festival", "Party"],
+    "pricePerDay": 1500,
+    "securityDeposit": 5000,
+    "bufferDays": 2,
+    "images": [
+      "https://images.pexels.com/photos/2983464/pexels-photo-2983464.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/3536993/pexels-photo-3536993.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/2995309/pexels-photo-2995309.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "isActive": true,
+    "vendor": {
+      "_id": "607f1f77bcf86cd799439006",
+      "shopName": "Elegant Rentals"
+    },
+    "createdAt": "2026-03-23T10:00:00.000Z"
+  },
+  {
+    "_id": "607f1f77bcf86cd799439002",
+    "title": "Royal Blue Kanjivaram Saree",
+    "category": "Saree",
+    "sizes": ["Free Size"],
+    "occasionTags": ["Wedding", "Reception"],
+    "pricePerDay": 2000,
+    "securityDeposit": 8000,
+    "bufferDays": 1,
+    "images": [
+      "https://images.pexels.com/photos/2995309/pexels-photo-2995309.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/3536993/pexels-photo-3536993.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/2983464/pexels-photo-2983464.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "isActive": true,
+    "vendor": {
+      "_id": "607f1f77bcf86cd799439006",
+      "shopName": "Elegant Rentals"
+    },
+    "createdAt": "2026-03-23T10:01:00.000Z"
+  },
+  {
+    "_id": "607f1f77bcf86cd799439003",
+    "title": "Golden Bridal Lehenga",
+    "category": "Lehenga",
+    "sizes": ["XS", "S", "M", "L", "XL"],
+    "occasionTags": ["Wedding", "Engagement"],
+    "pricePerDay": 3500,
+    "securityDeposit": 15000,
+    "bufferDays": 3,
+    "images": [
+      "https://images.pexels.com/photos/2995309/pexels-photo-2995309.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/3536993/pexels-photo-3536993.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "isActive": true,
+    "vendor": {
+      "_id": "607f1f77bcf86cd799439007",
+      "shopName": "Royal Collection"
+    },
+    "createdAt": "2026-03-23T10:02:00.000Z"
+  },
+  {
+    "_id": "607f1f77bcf86cd799439004",
+    "title": "Classic Black Sherwani",
+    "category": "Sherwani",
+    "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
+    "occasionTags": ["Wedding", "Party", "Festival"],
+    "pricePerDay": 2500,
+    "securityDeposit": 10000,
+    "bufferDays": 2,
+    "images": [
+      "https://images.pexels.com/photos/1043474/pexels-photo-1043474.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/3622614/pexels-photo-3622614.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/1342609/pexels-photo-1342609.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "isActive": true,
+    "vendor": {
+      "_id": "607f1f77bcf86cd799439008",
+      "shopName": "Traditional Wear"
+    },
+    "createdAt": "2026-03-23T10:03:00.000Z"
+  }
+]
